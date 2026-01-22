@@ -1,0 +1,241 @@
+request_id,request_date,requester_team,request_type,priority,channel,due_date,status,completed_date,estimated_hours,actual_hours
+REQ-00001,2024-04-12,HR,KPI Report,Low,Email,2024-05-03,Done,2024-05-06,3.6,4.2
+REQ-00002,2024-05-01,HR,Automation Request,Low,Email,2024-05-22,Done,2024-05-31,6.3,8.2
+REQ-00003,2025-10-25,Operations,Data Extract,Medium,Teams,2025-11-07,In Progress,,0.9,
+REQ-00004,2024-12-09,Marketing,Data Extract,High,Teams,2024-12-16,Done,2024-12-18,0.9,1.1
+REQ-00005,2024-07-10,Customer Support,Data Extract,Low,Email,2024-07-31,In Progress,,1.5,
+REQ-00006,2025-05-25,Operations,KPI Report,High,Email,2025-05-30,Done,2025-05-30,2.5,2.2
+REQ-00007,2024-07-08,Customer Support,Dashboard Update,Urgent,Jira,2024-07-10,Done,2024-07-11,3.1,3.4
+REQ-00008,2025-05-19,Customer Support,Data Quality Issue,High,Email,2025-05-26,Done,2025-05-27,2.6,2.4
+REQ-00009,2024-01-21,Operations,Data Extract,Low,Teams,2024-02-09,Done,2024-02-13,1.5,1.6
+REQ-00010,2024-12-11,Training,Dashboard Update,Medium,Teams,2024-12-25,Done,2024-12-30,4.3,3.8
+REQ-00011,2025-01-01,Marketing,Data Extract,Low,Email,2025-01-22,Done,2025-01-29,3.4,3.3
+REQ-00012,2024-03-21,HR,KPI Report,Medium,In person,2024-04-04,Done,2024-04-09,4.0,3.0
+REQ-00013,2024-01-02,Finance,Access/Permissions,Medium,Jira,2024-01-16,Done,2024-01-11,0.6,0.6
+REQ-00014,2025-02-05,Customer Support,One-off Analysis,Low,Jira,2025-02-26,Done,2025-03-03,5.3,6.7
+REQ-00015,2024-09-27,Marketing,KPI Report,High,Jira,2024-10-04,Done,2024-10-07,2.6,1.8
+REQ-00016,2024-02-22,Finance,Dashboard Update,High,Teams,2024-02-29,Done,2024-02-28,4.6,4.9
+REQ-00017,2024-07-06,Finance,Data Extract,Medium,In person,2024-07-19,Done,2024-07-17,1.7,2.0
+REQ-00018,2025-11-05,Training,Dashboard Update,Low,Email,2025-11-26,In Progress,,5.1,
+REQ-00019,2025-02-22,Customer Support,Automation Request,Low,In person,2025-03-14,Done,2025-03-14,5.6,6.3
+REQ-00020,2024-02-02,Sales,Dashboard Update,Medium,Jira,2024-02-16,Done,2024-02-22,3.8,3.6
+REQ-00021,2025-12-28,Training,Automation Request,Low,Jira,2026-01-16,In Progress,,7.1,
+REQ-00022,2025-12-26,Operations,Dashboard Update,Medium,Teams,2026-01-09,In Progress,,6.1,
+REQ-00023,2025-06-30,Sales,KPI Report,Medium,Teams,2025-07-14,Open,,1.8,
+REQ-00024,2025-04-06,Marketing,KPI Report,Urgent,Jira,2025-04-08,Open,,2.9,
+REQ-00025,2025-10-04,Sales,KPI Report,Medium,Teams,2025-10-17,In Progress,,3.4,
+REQ-00026,2025-02-01,Operations,Automation Request,Urgent,In person,2025-02-04,Done,2025-02-11,10.0,8.2
+REQ-00027,2024-01-15,Customer Support,Access/Permissions,Medium,In person,2024-01-29,Done,2024-01-30,0.5,0.5
+REQ-00028,2024-08-28,Training,KPI Report,Medium,Teams,2024-09-11,Done,2024-09-12,3.1,1.7
+REQ-00029,2025-04-29,Training,One-off Analysis,Medium,In person,2025-05-13,Done,2025-05-13,3.2,2.7
+REQ-00030,2024-06-08,Training,Data Quality Issue,Medium,Email,2024-06-21,Done,2024-06-27,4.4,5.5
+REQ-00031,2025-07-31,Finance,KPI Report,Low,Teams,2025-08-21,Done,2025-08-19,4.1,4.2
+REQ-00032,2025-09-11,Operations,One-off Analysis,Low,Email,2025-10-02,Done,2025-10-02,6.6,7.2
+REQ-00033,2024-12-13,Customer Support,KPI Report,Low,Teams,2025-01-03,Done,2025-01-10,2.7,3.4
+REQ-00034,2025-09-24,Sales,One-off Analysis,High,In person,2025-10-01,Open,,3.4,
+REQ-00035,2025-09-19,Customer Support,KPI Report,Low,In person,2025-10-10,Done,2025-10-08,1.8,1.9
+REQ-00036,2024-11-13,Marketing,Automation Request,Low,Email,2024-12-04,Done,2024-12-03,5.5,5.4
+REQ-00037,2025-11-14,Operations,One-off Analysis,High,Teams,2025-11-21,Done,2025-11-21,4.4,5.0
+REQ-00038,2025-11-22,Finance,Dashboard Update,Medium,Teams,2025-12-05,Done,2025-12-02,4.3,4.4
+REQ-00039,2025-07-17,Training,KPI Report,High,Email,2025-07-24,Open,,4.0,
+REQ-00040,2025-01-21,HR,Data Quality Issue,Low,Teams,2025-02-11,Done,2025-02-10,1.2,1.0
+REQ-00041,2024-03-21,Operations,Dashboard Update,Low,Email,2024-04-11,Done,2024-04-12,3.9,5.3
+REQ-00042,2025-09-29,Operations,KPI Report,Medium,Jira,2025-10-13,In Progress,,1.3,
+REQ-00043,2024-05-09,Marketing,Access/Permissions,Urgent,In person,2024-05-13,Done,2024-05-10,2.8,4.5
+REQ-00044,2025-03-14,Operations,Data Extract,Urgent,Email,2025-03-18,Done,2025-03-24,0.6,0.7
+REQ-00045,2024-10-20,Customer Support,KPI Report,Medium,Teams,2024-11-01,Done,2024-11-11,1.3,1.6
+REQ-00046,2024-05-23,Operations,Dashboard Update,High,Email,2024-05-30,Done,2024-06-11,3.4,4.4
+REQ-00047,2024-11-21,HR,Data Extract,Low,Teams,2024-12-12,Done,2024-12-19,2.0,1.6
+REQ-00048,2024-12-11,Sales,KPI Report,Low,Jira,2025-01-01,Done,2025-01-01,1.1,1.2
+REQ-00049,2025-12-11,Training,Data Extract,Medium,In person,2025-12-25,Done,2025-12-30,0.5,0.6
+REQ-00050,2025-10-02,Operations,Data Quality Issue,Medium,Email,2025-10-16,Open,,2.3,
+REQ-00051,2025-04-17,Marketing,Access/Permissions,Urgent,Teams,2025-04-21,Done,2025-04-22,0.5,0.4
+REQ-00052,2024-05-23,Sales,KPI Report,Medium,Teams,2024-06-06,Done,2024-06-12,3.3,4.5
+REQ-00053,2025-07-25,Marketing,KPI Report,High,Jira,2025-08-01,Open,,3.1,
+REQ-00054,2024-06-08,Training,KPI Report,High,Email,2024-06-14,Done,2024-06-19,1.3,1.8
+REQ-00055,2024-04-08,Customer Support,KPI Report,Low,Jira,2024-04-29,Done,2024-05-06,3.6,3.5
+REQ-00056,2025-11-03,Finance,Data Quality Issue,Low,Email,2025-11-24,Open,,3.8,
+REQ-00057,2025-09-19,HR,Automation Request,Low,Teams,2025-10-10,Done,2025-10-15,7.0,7.7
+REQ-00058,2024-06-11,HR,Data Extract,Medium,In person,2024-06-25,Done,2024-06-21,0.5,0.6
+REQ-00059,2024-06-09,Sales,KPI Report,Urgent,Teams,2024-06-11,Done,2024-06-11,2.5,2.3
+REQ-00060,2025-01-26,Sales,Automation Request,Medium,Teams,2025-02-07,Done,2025-02-05,6.5,8.4
+REQ-00061,2024-02-02,Operations,Data Extract,Urgent,Jira,2024-02-06,Open,,2.3,
+REQ-00062,2025-04-14,Finance,Data Extract,Low,Teams,2025-05-05,In Progress,,5.2,
+REQ-00063,2025-01-09,Training,Data Extract,Low,Teams,2025-01-30,Done,2025-02-05,0.5,0.5
+REQ-00064,2024-10-09,Training,KPI Report,Medium,In person,2024-10-23,Done,2024-10-28,0.7,0.6
+REQ-00065,2025-08-31,Customer Support,Automation Request,High,Email,2025-09-05,Done,2025-09-08,9.3,11.2
+REQ-00066,2025-10-20,Marketing,KPI Report,Medium,In person,2025-11-03,Done,2025-10-31,4.8,5.5
+REQ-00067,2025-05-26,Marketing,Automation Request,High,Teams,2025-06-02,Done,2025-06-03,6.9,6.5
+REQ-00068,2024-06-09,Marketing,Data Extract,Low,Jira,2024-06-28,Done,2024-07-05,0.5,0.5
+REQ-00069,2025-07-19,HR,Dashboard Update,Urgent,Email,2025-07-22,Done,2025-07-24,6.1,6.8
+REQ-00070,2025-10-24,Operations,Access/Permissions,Low,Email,2025-11-14,In Progress,,0.5,
+REQ-00071,2025-09-30,Operations,Dashboard Update,Medium,Email,2025-10-14,Done,2025-10-21,4.1,5.2
+REQ-00072,2024-09-02,Marketing,Data Quality Issue,Low,Email,2024-09-23,Done,2024-10-01,0.8,0.7
+REQ-00073,2025-06-21,Sales,Automation Request,Medium,Jira,2025-07-04,Open,,6.4,
+REQ-00074,2025-06-08,Marketing,Access/Permissions,High,Email,2025-06-13,Done,2025-06-17,0.5,0.6
+REQ-00075,2025-05-26,Customer Support,Data Extract,Medium,In person,2025-06-09,Done,2025-06-09,1.3,0.9
+REQ-00076,2024-02-20,Customer Support,Data Quality Issue,Low,In person,2024-03-12,Done,2024-03-25,5.3,3.1
+REQ-00077,2024-05-04,HR,Access/Permissions,Medium,Email,2024-05-17,Done,2024-05-21,1.2,1.4
+REQ-00078,2025-09-04,Finance,Data Extract,High,In person,2025-09-11,In Progress,,0.5,
+REQ-00079,2024-09-20,Marketing,Data Quality Issue,Medium,Teams,2024-10-04,Done,2024-10-03,3.3,2.9
+REQ-00080,2024-12-15,HR,Data Extract,Medium,Email,2024-12-27,Done,2024-12-31,4.1,5.0
+REQ-00081,2025-10-17,Customer Support,One-off Analysis,Medium,Teams,2025-10-31,Done,2025-11-04,5.5,7.2
+REQ-00082,2025-08-26,Operations,KPI Report,Urgent,In person,2025-08-28,Open,,2.2,
+REQ-00083,2024-02-27,Marketing,Data Quality Issue,Low,In person,2024-03-19,Done,2024-03-19,4.5,4.3
+REQ-00084,2024-04-05,Marketing,KPI Report,Medium,Email,2024-04-19,Done,2024-04-22,5.1,5.9
+REQ-00085,2025-05-02,Customer Support,Data Extract,High,In person,2025-05-09,Done,2025-05-13,2.2,3.5
+REQ-00086,2025-08-03,Operations,Data Extract,High,In person,2025-08-08,Done,2025-08-12,0.5,0.8
+REQ-00087,2024-03-16,HR,Access/Permissions,Medium,In person,2024-03-29,In Progress,,0.5,
+REQ-00088,2024-03-26,Customer Support,Data Quality Issue,High,In person,2024-04-02,Done,2024-04-04,3.0,3.7
+REQ-00089,2024-07-22,Marketing,One-off Analysis,High,In person,2024-07-29,Done,2024-07-29,6.3,9.9
+REQ-00090,2025-06-05,HR,Data Extract,Low,Jira,2025-06-26,Done,2025-06-27,1.5,1.9
+REQ-00091,2024-11-20,Marketing,Automation Request,Low,In person,2024-12-11,Done,2024-12-18,7.9,9.0
+REQ-00092,2025-10-25,Customer Support,One-off Analysis,Low,In person,2025-11-14,In Progress,,6.1,
+REQ-00093,2025-11-20,Operations,Automation Request,Medium,In person,2025-12-04,Open,,4.8,
+REQ-00094,2025-11-21,Marketing,Access/Permissions,Low,Teams,2025-12-12,In Progress,,1.2,
+REQ-00095,2025-03-02,Sales,Data Extract,Medium,In person,2025-03-14,Done,2025-03-17,2.2,2.5
+REQ-00096,2024-03-30,Customer Support,Automation Request,High,In person,2024-04-05,Open,,5.3,
+REQ-00097,2025-08-27,Sales,Data Quality Issue,Low,In person,2025-09-17,Done,2025-09-18,3.5,4.0
+REQ-00098,2025-05-07,Finance,Data Extract,Medium,Jira,2025-05-21,Done,2025-05-20,2.0,2.1
+REQ-00099,2025-11-06,Customer Support,Data Extract,High,Email,2025-11-13,In Progress,,2.2,
+REQ-00100,2024-07-10,Marketing,One-off Analysis,Low,Email,2024-07-31,Open,,4.1,
+REQ-00101,2025-11-19,Customer Support,Data Quality Issue,High,Email,2025-11-26,Open,,1.8,
+REQ-00102,2024-04-05,HR,Data Extract,Medium,Teams,2024-04-19,Done,2024-04-24,2.2,2.2
+REQ-00103,2024-02-06,Marketing,Data Extract,Medium,Email,2024-02-20,Done,2024-02-26,0.5,0.4
+REQ-00104,2024-09-29,Customer Support,KPI Report,Medium,Jira,2024-10-11,Done,2024-10-17,2.6,4.8
+REQ-00105,2025-12-29,Sales,Access/Permissions,Medium,Email,2026-01-12,Open,,1.8,
+REQ-00106,2024-06-25,Sales,Automation Request,Low,Jira,2024-07-16,Done,2024-07-18,5.5,7.1
+REQ-00107,2025-12-18,Customer Support,Data Quality Issue,Low,Jira,2026-01-08,Open,,2.3,
+REQ-00108,2025-05-20,Sales,Data Quality Issue,Low,Email,2025-06-10,Done,2025-06-23,1.5,2.4
+REQ-00109,2024-04-08,Customer Support,Automation Request,Low,Teams,2024-04-29,In Progress,,7.3,
+REQ-00110,2025-04-13,Marketing,One-off Analysis,Urgent,In person,2025-04-15,Done,2025-04-24,5.9,7.2
+REQ-00111,2025-07-22,Marketing,Automation Request,Medium,Teams,2025-08-05,Done,2025-08-14,6.5,7.0
+REQ-00112,2024-08-17,Customer Support,KPI Report,High,In person,2024-08-23,Done,2024-08-27,3.3,3.0
+REQ-00113,2024-06-18,Sales,Data Quality Issue,Medium,Jira,2024-07-02,Done,2024-07-08,2.2,2.3
+REQ-00114,2025-02-25,Finance,Data Extract,High,Jira,2025-03-04,Done,2025-02-28,2.9,2.7
+REQ-00115,2025-05-25,Sales,Dashboard Update,Low,In person,2025-06-13,Done,2025-06-18,5.0,6.9
+REQ-00116,2025-03-20,Sales,One-off Analysis,Medium,In person,2025-04-03,Done,2025-04-02,6.8,5.6
+REQ-00117,2025-12-14,Marketing,KPI Report,Low,Jira,2026-01-02,Open,,2.6,
+REQ-00118,2024-08-07,HR,Data Extract,Medium,Jira,2024-08-21,Done,2024-08-22,3.4,4.0
+REQ-00119,2025-03-31,Marketing,Dashboard Update,Medium,Teams,2025-04-14,Done,2025-04-16,3.0,3.5
+REQ-00120,2024-07-08,Finance,One-off Analysis,Urgent,Teams,2024-07-10,Done,2024-07-17,4.3,1.9
+REQ-00121,2025-02-12,Finance,Dashboard Update,Medium,Email,2025-02-26,In Progress,,3.6,
+REQ-00122,2024-05-13,Customer Support,Data Extract,Medium,Teams,2024-05-27,Done,2024-05-30,0.5,0.6
+REQ-00123,2024-03-20,Finance,Access/Permissions,Medium,Teams,2024-04-03,Done,2024-04-05,1.0,1.1
+REQ-00124,2025-06-15,HR,One-off Analysis,Low,Jira,2025-07-04,Done,2025-07-04,4.2,3.4
+REQ-00125,2025-05-27,Marketing,Dashboard Update,Low,In person,2025-06-17,Done,2025-06-25,6.2,6.3
+REQ-00126,2025-10-29,Operations,KPI Report,Medium,Teams,2025-11-12,Open,,4.2,
+REQ-00127,2025-01-07,Operations,Data Quality Issue,Medium,In person,2025-01-21,Open,,1.5,
+REQ-00128,2024-03-30,HR,One-off Analysis,Low,In person,2024-04-19,Done,2024-04-22,3.4,3.1
+REQ-00129,2025-06-23,Training,Data Extract,Medium,Email,2025-07-07,Done,2025-07-01,1.9,2.3
+REQ-00130,2025-07-11,HR,One-off Analysis,Urgent,Teams,2025-07-15,Done,2025-07-18,7.0,4.3
+REQ-00131,2025-03-25,Finance,KPI Report,Low,Teams,2025-04-15,Done,2025-04-14,3.2,4.5
+REQ-00132,2024-05-25,Operations,Dashboard Update,Medium,Teams,2024-06-07,Done,2024-06-07,1.9,2.6
+REQ-00133,2025-11-19,Finance,Data Extract,High,Teams,2025-11-26,Done,2025-11-27,3.0,2.0
+REQ-00134,2025-06-01,Training,One-off Analysis,Medium,Teams,2025-06-13,Done,2025-06-13,5.4,8.3
+REQ-00135,2025-10-06,Marketing,Data Quality Issue,Medium,Email,2025-10-20,Open,,2.5,
+REQ-00136,2025-07-18,Operations,One-off Analysis,Medium,In person,2025-08-01,In Progress,,5.1,
+REQ-00137,2025-11-07,Operations,One-off Analysis,Medium,In person,2025-11-21,In Progress,,4.2,
+REQ-00138,2024-03-25,Operations,KPI Report,Medium,Jira,2024-04-08,Done,2024-04-16,1.7,1.7
+REQ-00139,2024-02-20,Operations,Data Extract,Medium,Email,2024-03-05,Done,2024-03-04,0.7,0.8
+REQ-00140,2024-02-03,Training,Data Quality Issue,Low,Teams,2024-02-23,Done,2024-02-29,1.5,1.5
+REQ-00141,2024-06-02,Marketing,Data Quality Issue,High,In person,2024-06-07,Done,2024-06-03,2.2,2.0
+REQ-00142,2024-02-23,HR,Dashboard Update,Low,Jira,2024-03-15,Done,2024-03-22,4.5,6.2
+REQ-00143,2024-10-29,Marketing,KPI Report,Low,In person,2024-11-19,Done,2024-11-28,2.5,3.3
+REQ-00144,2024-04-12,Finance,Access/Permissions,High,In person,2024-04-19,Done,2024-04-24,2.3,1.4
+REQ-00145,2024-11-30,Operations,Data Extract,Low,Email,2024-12-20,Done,2024-12-27,1.3,1.4
+REQ-00146,2024-11-30,HR,Data Quality Issue,Medium,Jira,2024-12-13,Done,2024-12-06,4.5,3.2
+REQ-00147,2025-07-16,HR,Dashboard Update,Medium,Jira,2025-07-30,Done,2025-08-05,4.8,6.5
+REQ-00148,2025-05-22,Sales,Access/Permissions,Medium,Email,2025-06-05,Open,,0.8,
+REQ-00149,2024-03-09,Training,Data Quality Issue,Low,Email,2024-03-29,Done,2024-04-02,3.0,4.0
+REQ-00150,2024-04-20,Sales,KPI Report,Urgent,In person,2024-04-23,Done,2024-04-22,1.7,2.0
+REQ-00151,2025-11-26,Training,Data Quality Issue,Low,Jira,2025-12-17,In Progress,,3.7,
+REQ-00152,2025-10-28,Marketing,Dashboard Update,Medium,In person,2025-11-11,Open,,3.7,
+REQ-00153,2024-04-02,Finance,Data Quality Issue,Medium,Email,2024-04-16,Done,2024-04-18,2.9,3.5
+REQ-00154,2025-04-10,Finance,One-off Analysis,Medium,Email,2025-04-24,In Progress,,4.4,
+REQ-00155,2025-08-26,Finance,Data Extract,Medium,Teams,2025-09-09,In Progress,,1.2,
+REQ-00156,2025-05-27,Marketing,Dashboard Update,Medium,In person,2025-06-10,In Progress,,3.9,
+REQ-00157,2025-10-06,Training,Automation Request,Urgent,In person,2025-10-08,Done,2025-10-07,5.8,6.2
+REQ-00158,2024-03-13,Finance,One-off Analysis,Low,In person,2024-04-03,Done,2024-03-28,5.0,4.1
+REQ-00159,2024-08-01,Marketing,Data Quality Issue,High,Email,2024-08-08,In Progress,,3.5,
+REQ-00160,2025-09-16,Operations,Access/Permissions,Medium,In person,2025-09-30,Done,2025-09-30,1.2,1.3
+REQ-00161,2024-10-29,Operations,Access/Permissions,Low,Teams,2024-11-19,Done,2024-11-21,0.5,0.3
+REQ-00162,2024-08-03,Operations,One-off Analysis,Low,In person,2024-08-23,Done,2024-09-03,4.7,5.1
+REQ-00163,2025-11-29,HR,Automation Request,High,Jira,2025-12-05,In Progress,,7.0,
+REQ-00164,2025-09-14,HR,Automation Request,Medium,Teams,2025-09-26,Open,,4.8,
+REQ-00165,2024-12-28,HR,Access/Permissions,Urgent,In person,2024-12-31,Done,2024-12-30,1.1,1.6
+REQ-00166,2024-01-15,Training,One-off Analysis,Medium,Teams,2024-01-29,Done,2024-01-19,5.4,5.0
+REQ-00167,2024-01-28,Customer Support,Access/Permissions,Low,Jira,2024-02-16,Done,2024-02-19,0.5,0.7
+REQ-00168,2024-03-07,Marketing,Dashboard Update,Low,Teams,2024-03-28,Done,2024-04-04,3.6,5.7
+REQ-00169,2024-08-15,Operations,KPI Report,High,Teams,2024-08-22,Done,2024-09-04,4.2,3.9
+REQ-00170,2025-08-17,Sales,Data Quality Issue,Low,Jira,2025-09-05,In Progress,,4.4,
+REQ-00171,2025-07-07,HR,Automation Request,Medium,Teams,2025-07-21,Done,2025-07-18,4.3,5.5
+REQ-00172,2024-11-10,Operations,Access/Permissions,Urgent,In person,2024-11-12,Done,2024-11-20,1.0,1.1
+REQ-00173,2024-10-15,Customer Support,Dashboard Update,Medium,Email,2024-10-29,In Progress,,3.8,
+REQ-00174,2024-12-15,Finance,Data Quality Issue,Medium,Email,2024-12-27,In Progress,,0.5,
+REQ-00175,2025-03-21,Training,Data Quality Issue,Low,Email,2025-04-11,Done,2025-04-11,1.8,0.8
+REQ-00176,2025-07-01,Training,One-off Analysis,High,Jira,2025-07-08,Open,,5.8,
+REQ-00177,2024-08-10,Finance,KPI Report,Low,Teams,2024-08-30,Done,2024-09-04,4.1,4.3
+REQ-00178,2025-07-27,HR,Access/Permissions,Medium,In person,2025-08-08,Done,2025-08-13,1.1,1.4
+REQ-00179,2025-01-26,Operations,Data Extract,Low,Jira,2025-02-14,Done,2025-02-24,1.4,1.2
+REQ-00180,2025-06-15,Customer Support,KPI Report,Low,Jira,2025-07-04,Done,2025-07-10,2.4,2.3
+REQ-00181,2024-03-30,Sales,Access/Permissions,High,In person,2024-04-05,Done,2024-04-08,1.2,1.5
+REQ-00182,2024-09-15,Training,Data Extract,High,In person,2024-09-20,Done,2024-09-24,1.3,1.2
+REQ-00183,2024-01-10,Training,KPI Report,Urgent,In person,2024-01-12,Done,2024-01-22,5.4,6.5
+REQ-00184,2025-08-18,Training,Automation Request,Medium,Jira,2025-09-01,Open,,4.8,
+REQ-00185,2024-11-16,Sales,Dashboard Update,Medium,In person,2024-11-29,Done,2024-12-02,2.8,3.8
+REQ-00186,2024-04-04,Customer Support,Access/Permissions,Low,Email,2024-04-25,Done,2024-05-01,1.2,1.3
+REQ-00187,2025-08-10,HR,Access/Permissions,Medium,In person,2025-08-22,Open,,1.8,
+REQ-00188,2024-11-15,Training,Data Extract,Medium,Email,2024-11-29,Done,2024-12-02,2.9,3.2
+REQ-00189,2024-08-16,Finance,Dashboard Update,Low,Teams,2024-09-06,Done,2024-09-09,3.5,4.0
+REQ-00190,2025-01-13,Marketing,Data Extract,Urgent,In person,2025-01-15,Done,2025-01-14,2.4,2.7
+REQ-00191,2025-08-23,Sales,One-off Analysis,High,In person,2025-08-29,In Progress,,4.7,
+REQ-00192,2024-10-22,Training,Data Extract,Medium,In person,2024-11-05,Done,2024-11-11,3.6,3.4
+REQ-00193,2025-11-21,Training,Automation Request,Low,Email,2025-12-12,In Progress,,6.8,
+REQ-00194,2025-07-28,Marketing,KPI Report,Low,Email,2025-08-18,In Progress,,5.7,
+REQ-00195,2024-05-22,HR,Data Quality Issue,Medium,Jira,2024-06-05,Done,2024-05-30,3.7,4.5
+REQ-00196,2025-09-07,Finance,KPI Report,Medium,Teams,2025-09-19,Done,2025-09-11,3.3,2.2
+REQ-00197,2024-07-16,Sales,Automation Request,Low,Email,2024-08-06,Done,2024-08-09,6.7,5.6
+REQ-00198,2024-01-15,Finance,Access/Permissions,Urgent,Teams,2024-01-17,Done,2024-01-16,1.0,1.3
+REQ-00199,2025-04-22,Operations,Automation Request,Low,Teams,2025-05-13,Done,2025-05-16,6.3,5.9
+REQ-00200,2025-02-14,Sales,KPI Report,Low,In person,2025-03-07,Done,2025-03-07,4.8,5.5
+REQ-00201,2025-09-26,Sales,One-off Analysis,Medium,In person,2025-10-10,Open,,4.5,
+REQ-00202,2024-06-07,Sales,Access/Permissions,Low,Jira,2024-06-28,Done,2024-07-03,0.5,0.3
+REQ-00203,2025-11-26,Marketing,Access/Permissions,Low,In person,2025-12-17,In Progress,,4.8,
+REQ-00204,2024-06-05,Customer Support,Dashboard Update,High,Email,2024-06-12,Done,2024-06-14,4.9,4.0
+REQ-00205,2024-05-09,Marketing,KPI Report,Low,Jira,2024-05-30,Done,2024-06-04,2.8,4.1
+REQ-00206,2024-10-09,Marketing,Data Quality Issue,Low,In person,2024-10-30,Done,2024-11-05,1.2,1.1
+REQ-00207,2025-07-03,Operations,One-off Analysis,High,In person,2025-07-10,Open,,4.5,
+REQ-00208,2024-12-11,Marketing,Data Extract,Medium,In person,2024-12-25,Done,2024-12-20,1.7,2.9
+REQ-00209,2025-09-14,Customer Support,Data Extract,Medium,Teams,2025-09-26,Done,2025-10-01,3.4,4.6
+REQ-00210,2025-01-12,Customer Support,Dashboard Update,Low,In person,2025-01-31,Done,2025-02-07,3.2,3.0
+REQ-00211,2025-02-23,Operations,One-off Analysis,High,Jira,2025-02-28,Done,2025-03-04,6.3,3.9
+REQ-00212,2024-11-04,HR,Dashboard Update,High,In person,2024-11-11,Done,2024-11-19,5.3,4.8
+REQ-00213,2024-04-26,Training,One-off Analysis,Urgent,Jira,2024-04-30,Done,2024-04-29,5.3,7.0
+REQ-00214,2025-01-20,Operations,Dashboard Update,Low,Email,2025-02-10,Done,2025-02-12,2.1,0.7
+REQ-00215,2024-12-12,Marketing,Data Quality Issue,Low,Teams,2025-01-02,Done,2024-12-31,2.2,1.7
+REQ-00216,2025-10-25,Customer Support,Automation Request,Urgent,Jira,2025-10-28,Open,,5.8,
+REQ-00217,2024-01-25,Operations,Data Extract,High,Jira,2024-02-01,Done,2024-01-26,1.4,1.4
+REQ-00218,2024-03-03,Operations,Automation Request,Medium,Teams,2024-03-15,Done,2024-03-21,4.9,4.3
+REQ-00219,2025-04-13,Customer Support,Access/Permissions,Low,In person,2025-05-02,Done,2025-05-08,1.0,1.6
+REQ-00220,2024-12-07,Marketing,Data Extract,Medium,Email,2024-12-20,Done,2024-12-17,4.6,4.9
+REQ-00221,2024-05-20,Training,KPI Report,High,Email,2024-05-27,Done,2024-05-22,0.7,0.6
+REQ-00222,2025-10-31,Finance,Data Quality Issue,Medium,Teams,2025-11-14,In Progress,,3.9,
+REQ-00223,2024-10-11,Customer Support,KPI Report,Medium,In person,2024-10-25,Done,2024-10-22,4.8,5.4
+REQ-00224,2025-08-12,Sales,Data Extract,Low,Email,2025-09-02,Open,,2.9,
+REQ-00225,2025-01-05,Finance,Access/Permissions,High,Jira,2025-01-10,Done,2025-01-20,0.5,0.3
+REQ-00226,2025-11-08,Marketing,KPI Report,Medium,In person,2025-11-21,Done,2025-11-19,2.6,2.9
+REQ-00227,2024-09-20,Sales,Data Extract,Medium,Jira,2024-10-04,Done,2024-10-01,0.6,0.5
+REQ-00228,2024-03-27,Operations,Automation Request,Low,Email,2024-04-17,Done,2024-04-29,5.7,7.4
+REQ-00229,2024-11-08,Training,Data Quality Issue,Medium,In person,2024-11-22,Done,2024-11-21,1.6,1.7
+REQ-00230,2025-08-01,Finance,Dashboard Update,Urgent,In person,2025-08-05,Done,2025-08-05,4.2,5.4
+REQ-00231,2024-09-20,Customer Support,Access/Permissions,Low,Teams,2024-10-11,Done,2024-10-15,0.6,0.7
+REQ-00232,2025-05-05,Marketing,Dashboard Update,Low,Teams,2025-05-26,In Progress,,4.5,
+REQ-00233,2025-03-27,Marketing,KPI Report,Medium,Teams,2025-04-10,Done,2025-04-04,1.9,2.1
+REQ-00234,2025-11-03,Training,Data Extract,Medium,Teams,2025-11-17,Open,,0.6,
+REQ-00235,2024-05-30,Operations,Data Extract,Low,Email,2024-06-20,Done,2024-06-25,2.5,3.0
+REQ-00236,2025-12-09,Operations,One-off Analysis,Medium,Jira,2025-12-23,In Progress,,5.3,
+REQ-00237,2025-06-06,Training,Data Quality Issue,Low,In person,2025-06-27,Done,2025-06-27,0.8,0.5
+REQ-00238,2024-09-17,HR,One-off Analysis,Medium,Email,2024-10-01,Done,2024-10-04,6.4,5.6
+REQ-00239,2024-08-13,Finance,Dashboard Update,Low,Email,2024-09-03,Done,2024-09-04,4.6,5.0
+REQ-00240,2024-02-28,HR,Access/Permissions,Low,In person,2024-03-20,Done,2024-03-20,1.1,1.2

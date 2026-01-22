@@ -1,0 +1,36 @@
+requester_team,age_bucket,open_requests
+Customer Support,0-7 days,0
+Customer Support,8-14 days,1
+Customer Support,15-30 days,0
+Customer Support,31-60 days,2
+Customer Support,60+ days,6
+Finance,0-7 days,0
+Finance,8-14 days,0
+Finance,15-30 days,0
+Finance,31-60 days,1
+Finance,60+ days,7
+HR,0-7 days,0
+HR,8-14 days,0
+HR,15-30 days,0
+HR,31-60 days,1
+HR,60+ days,3
+Marketing,0-7 days,0
+Marketing,8-14 days,0
+Marketing,15-30 days,1
+Marketing,31-60 days,2
+Marketing,60+ days,9
+Operations,0-7 days,1
+Operations,8-14 days,0
+Operations,15-30 days,1
+Operations,31-60 days,2
+Operations,60+ days,10
+Sales,0-7 days,1
+Sales,8-14 days,0
+Sales,15-30 days,0
+Sales,31-60 days,0
+Sales,60+ days,9
+Training,0-7 days,1
+Training,8-14 days,0
+Training,15-30 days,0
+Training,31-60 days,4
+Training,60+ days,3
